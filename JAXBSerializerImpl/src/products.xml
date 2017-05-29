@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:products xmlns:ns2="https://www.epam.com/products">
+	<product>
+		<name>Car</name>
+		<price>20000</price>
+		<amount>200</amount>
+		<description>Fast car</description>
+		<type>convenience</type>
+	</product>
+	<product>
+		<name>Bag</name>
+		<price>10</price>
+		<amount>77000</amount>
+		<description>Big bag</description>
+		<type>shopping</type>
+	</product>
+	<product>
+		<name>Shovel</name>
+		<price>75</price>
+		<amount>53731</amount>
+		<description>Comfortable shovel</description>
+		<type>speciality</type>
+	</product>
+	<product>
+		<name>Pen</name>
+		<price>31</price>
+		<amount>985463</amount>
+		<description>Black pen</description>
+		<type>speciality</type>
+	</product>
+	<product>
+		<name>Mark</name>
+		<price>17</price>
+		<amount>354654</amount>
+		<description>Beautiful book mark</description>
+		<type>unsought</type>
+	</product>
+	<product>
+		<name>Chair</name>
+		<price>234</price>
+		<amount>242424</amount>
+		<description>Comfortable chair</description>
+		<type>convenience</type>
+	</product>
+	<product>
+		<name>Notebook</name>
+		<price>84</price>
+		<amount>983277</amount>
+		<description>Small notebook</description>
+		<type>shopping</type>
+	</product>
+	<product>
+		<name>Calculator</name>
+		<price>97</price>
+		<amount>897923</amount>
+		<description>Scientific calculator</description>
+		<type>speciality</type>
+	</product>
+	<product>
+		<name>Shoes</name>
+		<price>648</price>
+		<amount>4125</amount>
+		<description>Cildren shoes</description>
+		<type>unsought</type>
+	</product>
+	<product>
+		<name>Washer</name>
+		<price>5746</price>
+		<amount>8975</amount>
+		<description>Good washer</description>
+		<type>convenience</type>
+	</product>
+</ns2:products>	
